@@ -1,0 +1,15 @@
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\bin\Debug\net8.0\5ti_LoukaConstant_triTableaux.exe
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\bin\Debug\net8.0\5ti_LoukaConstant_triTableaux.deps.json
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\bin\Debug\net8.0\5ti_LoukaConstant_triTableaux.runtimeconfig.json
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\bin\Debug\net8.0\5ti_LoukaConstant_triTableaux.dll
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\bin\Debug\net8.0\5ti_LoukaConstant_triTableaux.pdb
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.sourcelink.json
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.dll
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\refint\5ti_LoukaConstant_triTableaux.dll
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.pdb
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\5ti_LoukaConstant_triTableaux.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5ti_LoukaConstant_triTableaux\5ti_LoukaConstant_triTableaux\obj\Debug\net8.0\ref\5ti_LoukaConstant_triTableaux.dll
